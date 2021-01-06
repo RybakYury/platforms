@@ -1,0 +1,30 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="103.031" height="46.32" viewBox="0 0 103.031 46.32">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        font-size: 48px;
+        font-family: Lato;
+      }
+
+      .cls-1 {
+        fill: #2c2f49;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #ff8a8a;
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #212126;
+      }
+    </style>
+  </defs>
+  <text id="Start_Ex" data-name="Start Ex" class="cls-1" transform="translate(0.233 30.593) scale(0.551 0.56)">Start<tspan class="cls-2"> Ex</tspan></text>
+  <path id="Polygon_1" data-name="Polygon 1" class="cls-3" d="M226.336,4717.69q11.824,7.02,23.728,13.92t0,13.78q-11.9,6.9-23.728,13.92t-11.746-6.89q0.079-13.92,0-27.84T226.336,4717.69Z" transform="translate(-153 -4715.34)"/>
+  <text id="Start_Ex-2" data-name="Start Ex" class="cls-4" transform="translate(0.233 30.593) scale(0.551 0.56)">Start <tspan class="cls-2">Ex</tspan></text>
+</svg>

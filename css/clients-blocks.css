@@ -1,0 +1,147 @@
+.clients-blocks{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+		
+ }
+ .clients-blocks__item{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	text-align: center;
+	flex: 1 0 33.33%;
+	min-height: 340px;
+ }
+ .clients-blocks__item .item-photo{
+	display: flex;
+ }
+  .item-photo img{
+	flex: 0 0 130px;
+}
+.clients-blocks__item .item-name{
+	color: #fff;
+	padding-top: 26px;
+	font-size: 22px;
+	
+}
+.clients-blocks__item .item-name__position{
+	color: #ff6d6d;
+	padding-top: 14px;
+	font-size: 16px;
+
+}
+.clients-blocks__item .item__text{
+	color: #fff;
+	font-size: 16px;
+	line-height: 26px;
+	padding: 14px 10px 6px 10px;
+	font-style: italic;
+	flex: 1 1 auto;
+}
+.clients-logo{
+	background-color: rgba(255, 255, 255, 0.7);
+	
+}
+.clients-logo .clients-logo__block{
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 80px;
+	align-items: center;
+	height: 130px;
+}
+.clients-logo .clients-logo__block li{
+	
+} 
+.clients-logo .clients-logo__block li img{
+	max-width: 100%;
+}
+@media (max-width: 768px){
+	.responsive-wraper{
+		display: flex;
+		overflow: hidden;
+		justify-content: flex-start;
+		align-items: center;
+
+	 }
+	 .responsive-wraper .mac{
+		flex: 1 0 100%;
+	 }
+	 .responsive-wraper .mac img{
+		 max-width: 100%;
+	 }
+}
+
+
+
+
+
+<div class="clients">
+			  <div class="content">
+					<div class="clients-blocks">
+						<div class="clients-blocks__item">
+							<div class="clients-block_user">
+								<div class="item-photo">
+									<img src="img/user_1.jpg" alt="">
+								</div>
+								<div class="clients-name__item">
+									<div class="item-name">
+										Jonathon Doe
+									</div>
+									<div class="item-name__position">
+										Co Founder
+									</div>
+								</div>
+							</div>
+							<div class="item__text">
+								“Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id gravida at eget metus. Etiasem malesuada magn”
+							</div>
+						</div>
+						<div class="clients-blocks__item">
+							<div class="clients-block_user">
+								<div class="item-photo">
+									<img src="img/user_none.jpg " alt="">
+								</div>
+								<div class="clients-name__item">
+									<div class="item-name">
+										Jonathon Doe
+									</div>
+									<div class="item-name__position">
+										Co Founder
+									</div>
+								</div>
+								</div>
+							<div class="item__text">
+								“Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id gravida at eget metus. Etiasem malesuada magn”
+							</div>
+						</div>
+						<div class="clients-blocks__item">
+							<div class="clients-block_user">
+								<div class="item-photo">
+									<img src="img/user_3.jpg" alt="">
+								</div>
+								<div class="clients-name__item">
+									<div class="item-name">
+										Jonathon Doe
+									</div>
+									<div class="item-name__position">
+										Co Founder
+									</div>
+								</div>
+							</div>
+							<div class="item__text">
+								“Aenean eu leo quam. Pellentesque ornare sem dfhrsfgfg lacinia quam venenatis vestibulum. Donec id gravida at eget metus. Etiasem malesuada magn”
+							</div>
+						</div>
+					</div>
+					
+					<div class="clients-logo">
+						<ul class="clients-logo__block">
+							<li><img src="img/partner-logo-1.png" alt="logo"></li>
+							<li><img src="img/partner-logo-2.png" alt="logo"></li>
+							<li><img src="img/partner-logo-3.png" alt="logo"></li>
+							<li><img src="img/partner-logo-4.png" alt="logo"></li>
+							<li><img src="img/partner-logo-5.png" alt="logo"></li>
+						</ul>
+					</div>
+			  </div>
+		  </div>

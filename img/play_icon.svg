@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.6;
+      }
+
+      .cls-2 {
+        fill: #323969;
+      }
+
+      .cls-3 {
+        fill: #f4f5f7;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Play_Video_Icon" data-name="Play Video Icon" class="cls-1">
+    <circle class="cls-2" cx="29.5" cy="29.5" r="29.5"/>
+    <path id="Polygon_1" data-name="Polygon 1" class="cls-3" d="M731,435.5L714,445V426Z" transform="translate(-691 -406)"/>
+  </g>
+</svg>
